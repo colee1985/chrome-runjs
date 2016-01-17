@@ -10,7 +10,8 @@ btn.css({
 	zIndex:10000,
 	background: '#000',
 	color:'#fff',
-	fontSize:26
+	fontSize:26,
+	cursor: 'pointer'
 });
 
 btn.click(function(){
