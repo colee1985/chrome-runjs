@@ -22,8 +22,9 @@ btn.click(function(){
 		price = parseFloat(price);
 		console.log(price);
 		if(price>0.35){
-			ths.find('input').eq(0).prop('checked', true);
-			ths.addClass('selected');
+			ths.find('input').eq(0).click();
+			// .prop('checked', true);
+			// ths.addClass('selected');
 		}
 	});
 });
