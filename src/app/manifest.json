@@ -31,6 +31,7 @@
       "matches": ["*://*.aliexpress.com/*"],
       "js": [
         "vendor/jquery.2.1.4.js",
+        "vendor/vue.min.js",
         "scripts/contentscript.js"
       ],
       "run_at": "document_end",
