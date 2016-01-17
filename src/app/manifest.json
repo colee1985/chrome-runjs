@@ -30,6 +30,7 @@
     {
       "matches": ["*://*.aliexpress.com/*"],
       "js": [
+        "vendor/jquery.2.1.4.js",
         "scripts/contentscript.js"
       ],
       "run_at": "document_end",
