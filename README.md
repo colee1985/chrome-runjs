@@ -1,1 +1,1 @@
-chrome 运行自定义 JS的插件
+SMT推广的chrome插件
